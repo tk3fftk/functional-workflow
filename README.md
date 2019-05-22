@@ -1,2 +1,2 @@
 # functional-workflow
-Functional testing for all kinds of workflow
+Functional testing for all kinds of workflow.
